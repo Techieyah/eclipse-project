@@ -1,0 +1,26 @@
+package basics.ch_09_arrays;
+/*
+ * Arrays are used to store multiple values in a single variable, 
+ * instead of declaring separate variables for each value.
+ * 
+ * Arrays contain only elements of same data type
+ * 
+ * Arrays once initialized the size is fixed
+ * 
+ * To declare an array, define the variable type with square brackets
+ * 
+ * You can access an array element by index number
+	Each element is indexed in an array
+	Array indexes start with 0
+	 * 
+	 * //To change the value of a specific element
+	//refer to the index number
+	 * 
+	 * //To find out how many elements an array has,
+	//use the length property
+	 * 
+	 * //index of last element is arrays.length minus one
+*/
+public class ArraysTheory {
+
+}
